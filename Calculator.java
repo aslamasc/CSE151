@@ -3,6 +3,6 @@ public class Calculator{
 		
 	}
 }
-public int addition(int a,int b){
+public int addition(double a,double b){
 return a+b;
 }
